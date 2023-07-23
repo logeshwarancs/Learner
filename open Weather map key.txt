@@ -1,0 +1,17 @@
+open Weather map:
+-----------------
+
+     API keys : 43b3d26d1e531301755de139bc485f2d
+
+     ID       : logeshwaran21126@gmail.com
+     Password : Logesh1126
+--------------------------------------------------
+
+Website:
+--------
+--> https://openweathermap.org/current
+
+API call:
+---------
+
+--> https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key} 
